@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://softonic.dontkillmyapp.com/index_sitemap.xml
